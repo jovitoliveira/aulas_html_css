@@ -1,0 +1,29 @@
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#103f79 ;
+    font-size: 40px;
+}
+
+p{
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size: 20px;
+   line-height: 36px;
+}
+
+.vermelho{
+    color:#ff0000;
+}
+
+.texto_grande{
+    font-size: 60px;
+
+}
+
+#titulo_h2{
+    background:#f3b229;
+}
+
+#titulo_h2-1{
+
+}
+   
