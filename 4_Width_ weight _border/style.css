@@ -1,0 +1,14 @@
+.caixa_width { 
+    border: 2px solid #FF00FF;
+    width: 200px ;
+   }
+   .imagem_width {
+       width: 300px
+   }
+   
+   .caixa__height {
+       border: 1px dashed #00FFFF;
+   
+       height: 100px;
+       width: 100px;
+   }
